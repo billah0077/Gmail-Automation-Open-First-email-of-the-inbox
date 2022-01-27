@@ -1,0 +1,1 @@
+# Gmail-Automation-Open-First-email-of-the-inbox
